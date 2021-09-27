@@ -3,7 +3,7 @@
     "path": "C:/Users/HP/Desktop/ISA 616/RMD 2/markdown example 2.Rmd",
     "project_path": "markdown example 2.Rmd",
     "type": "r_markdown",
-    "hash": "118720405",
+    "hash": "259070524",
     "contents": "",
     "dirty": false,
     "created": 1632759546517.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "23,232",
-        "scrollLine": "19"
+        "cursorPosition": "51,3",
+        "scrollLine": "39"
     },
     "folds": "",
-    "lastKnownWriteTime": 1632761808,
+    "lastKnownWriteTime": 1632762010,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1632761808809,
+    "last_content_update": 1632762010291,
     "read_only": false,
     "read_only_alternatives": []
 }
